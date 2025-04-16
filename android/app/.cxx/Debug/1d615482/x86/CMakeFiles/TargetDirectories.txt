@@ -1,0 +1,2 @@
+C:/Users/Bhagi/OneDrive/Desktop/codecanyon-C7LWgcrD-stackfood-multi-restaurant-delivery-man-app-v10/Delivery man app/android/app/.cxx/Debug/1d615482/x86/CMakeFiles/edit_cache.dir
+C:/Users/Bhagi/OneDrive/Desktop/codecanyon-C7LWgcrD-stackfood-multi-restaurant-delivery-man-app-v10/Delivery man app/android/app/.cxx/Debug/1d615482/x86/CMakeFiles/rebuild_cache.dir
